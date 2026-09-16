@@ -1,14 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#ff8fc4" />
-      <stop offset="50%" stop-color="#ff4f9e" />
-      <stop offset="100%" stop-color="#8b5cf6" />
-    </linearGradient>
-  </defs>
-  <rect width="64" height="64" rx="16" fill="#0a0713" />
-  <path
-    d="M32 10 L37 27 L54 32 L37 37 L32 54 L27 37 L10 32 L27 27 Z"
-    fill="url(#g)"
-  />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Та же монограмма, что в шапке сайта: буква A, срезанная как грань
+       хрусталя. Прежний файл остался от предыдущей версии сайта — розовая
+       звезда на фиолетовом, к нынешней системе отношения не имел. -->
+  <rect width="32" height="32" fill="#000000"/>
+  <path d="M16 4.5 27 27.5h-4.8l-1.9-4.3H10.7l-1.9 4.3H4L16 4.5Z" fill="#8ca085"/>
+  <path d="M16 13.1 13.1 19.6h5.8L16 13.1Z" fill="#000000"/>
+  <path d="M16 4.5 27 27.5h-4.8L16 13.1V4.5Z" fill="#c9d4c2"/>
 </svg>
